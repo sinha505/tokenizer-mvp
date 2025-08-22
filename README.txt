@@ -30,7 +30,7 @@ tokenizer-mvp/
 ├─ app.py
 ├─ token_colors.py
 ├─ requirements.txt
-├─README.txt
+├─ README.txt
 ├─ LICENSE
 └─ .gitignore
 
